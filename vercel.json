@@ -1,5 +1,5 @@
 {
-  "regions": ["hnd1"],
+  "regions": ["pdx1"],
   "builds": [
     { "src": "/index.js","use": "@vercel/node" },
     { "src": "static/**","use": "@vercel/static" },
