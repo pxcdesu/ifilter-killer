@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/',
-    bare: 'https://busy-frog-leggings.cyclic.app/bare/',
+    bare: 'https://extrememath.info/bare/',
     encodeUrl: Ultraviolet.codec.plain.encode,
     decodeUrl: Ultraviolet.codec.plain.decode,
     handler: '/uv/uv.handler.js',
