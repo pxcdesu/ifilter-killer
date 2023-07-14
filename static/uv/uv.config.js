@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/',
-    bare: 'https://extrememath.info/bare/',
+    bare: 'https://mathrules.dev/bare/',
     encodeUrl: Ultraviolet.codec.base64.encode,
     decodeUrl: Ultraviolet.codec.base64.decode,
     handler: '/uv/uv.handler.js',
