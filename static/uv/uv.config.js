@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/',
-    bare: 'https://azsxdcfvgbhnjmk.f5.si/bare/',
+    bare: 'https://worrisome-tan-gopher.cyclic.app/bare/',
     encodeUrl: Ultraviolet.codec.plain.encode,
     decodeUrl: Ultraviolet.codec.plain.decode,
     handler: '/uv/uv.handler.js',
