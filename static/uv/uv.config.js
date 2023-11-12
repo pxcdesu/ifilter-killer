@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/',
-    bare: ['https://polarislearning.org/bare/','https://bare-server-vercel.vercel.app/bare/'],
+    bare: ['https://bare-server-vercel.vercel.app/bare/'],
     encodeUrl: Ultraviolet.codec.plain.encode,
     decodeUrl: Ultraviolet.codec.plain.decode,
     handler: '/uv/uv.handler.js',
