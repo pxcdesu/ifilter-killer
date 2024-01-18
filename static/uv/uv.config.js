@@ -1,6 +1,6 @@
 self.__uv$config = {
-    prefix: '/https://google.com//',
-    bare: ['https://holy-v2-skyegamesyt.koyeb.app/bare/'],
+    prefix: 't',
+    bare: ['https://illilililililililiililiiiililililililililiiilii-3rudscki.b4a.run/'],
     encodeUrl: Ultraviolet.codec.plain.encode,
     decodeUrl: Ultraviolet.codec.plain.decode,
     handler: '/uv/uv.handler.js',
