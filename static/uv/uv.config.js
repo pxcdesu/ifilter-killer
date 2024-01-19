@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/t/',
-    bare: ['https://kaguya-f9xxqqfr.b4a.run/bare/'],
+    bare: ['https://savethetrees.sen.org.nz/bare/'],
     encodeUrl: Ultraviolet.codec.plain.encode,
     decodeUrl: Ultraviolet.codec.plain.decode,
     handler: '/uv/uv.handler.js',
