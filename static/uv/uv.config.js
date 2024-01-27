@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/t/',
-    bare: ['https://savethetrees.sen.org.nz/bare/'],
+    bare: ['https://learning.particle.es/bare/'],
     encodeUrl: Ultraviolet.codec.plain.encode,
     decodeUrl: Ultraviolet.codec.plain.decode,
     handler: '/uv/uv.handler.js',
